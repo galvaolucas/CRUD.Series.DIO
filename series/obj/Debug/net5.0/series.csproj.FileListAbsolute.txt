@@ -1,0 +1,38 @@
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.csproj.AssemblyReference.cache
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.AssemblyInfoInputs.cache
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.AssemblyInfo.cs
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.csproj.CoreCompileInputs.cache
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/bin/Debug/net5.0/series.deps.json
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/bin/Debug/net5.0/series.runtimeconfig.json
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/bin/Debug/net5.0/series.runtimeconfig.dev.json
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/bin/Debug/net5.0/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/bin/Debug/net5.0/ref/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/bin/Debug/net5.0/series.pdb
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/ref/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.pdb
+/Users/lucasgalvao/Programação/Dotnet/Minhas-Series/series/obj/Debug/net5.0/series.genruntimeconfig.cache
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/series.csproj.AssemblyReference.cache
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/series.AssemblyInfoInputs.cache
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/series.AssemblyInfo.cs
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/series.csproj.CoreCompileInputs.cache
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/ref/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/CRUD - Series/obj/Debug/net5.0/series.pdb
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.csproj.AssemblyReference.cache
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.AssemblyInfoInputs.cache
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.AssemblyInfo.cs
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.csproj.CoreCompileInputs.cache
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/ref/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.pdb
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/bin/Debug/net5.0/series.deps.json
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/bin/Debug/net5.0/series.runtimeconfig.json
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/bin/Debug/net5.0/series.runtimeconfig.dev.json
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/bin/Debug/net5.0/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/bin/Debug/net5.0/ref/series.dll
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/bin/Debug/net5.0/series.pdb
+/Users/lucasgalvao/Programação/Dotnet/Desafio 1 - DIO/series/obj/Debug/net5.0/series.genruntimeconfig.cache
